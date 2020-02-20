@@ -1,0 +1,50 @@
+.contentPresentation {
+    margin-bottom: 2%;
+}
+
+.content {
+    margin-bottom: 2%;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: #192950;
+    box-shadow: 30px 10px 7px #AA968A;
+}
+
+body {
+    background-color: #BFAFA6;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Verdana;
+}
+
+hr {
+    height: 2px; 
+    color: black; 
+    background-color: black; 
+    width: 50%;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #6E6A6F;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    color: #D4D2D5;
+}
+
+h3 {
+    margin: 1%;
+}
+
+a:visited{
+    color:#fff;
+}
+
+#presentationText {
+    margin: 1%
+}
